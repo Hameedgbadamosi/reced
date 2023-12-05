@@ -1,0 +1,1 @@
+This algorithm sort numbers using insertion sort picking the current element to be inserted also moving elements of array that are greater than current element to one position ahead of their current position.
